@@ -1,6 +1,6 @@
 Navegação Entre Telas e Alteração de Cores de Fundo
 
-Este programa Android foi desenvolvido com Android Studio para demonstrar como criar uma navegação simples entre diversas telas em um aplicativo Android. Ele permite que o usuário clique em um botão na tela principal para acessar a próxima tela e assim por diante até chegar na tela desejada, além disso, a aplicação conta com a funcionalidade de alteração da cor do background para demonstrar como criar um botão que altera a cor de fundo de uma tela em uma aplicação mobile.
+Este programa Android foi desenvolvido com Android Studio para demonstrar como criar uma navegação simples entre diversas telas em um aplicativo. Ele permite que o usuário clique em um botão na tela principal para acessar a próxima tela e assim por diante até chegar na tela desejada, além disso, a aplicação conta com a funcionalidade de alteração da cor do background para demonstrar como criar um botão que altera a cor de fundo de uma tela em uma aplicação mobile.
 
 Tela Inicial da Aplicação:
 
