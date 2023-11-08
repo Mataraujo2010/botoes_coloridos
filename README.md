@@ -30,8 +30,6 @@ Tela com a última funcionalidade de alteração das cores de background de form
 
 ![image](https://github.com/Mataraujo2010/botoes_coloridos/assets/100869628/6cf1979d-eb81-48d8-8e2c-7ee1dfa3755d)
 
-![image](https://github.com/Mataraujo2010/botoes_coloridos/assets/100869628/f92baede-8813-4613-9d7b-66b1606bb390)
-
 ![image](https://github.com/Mataraujo2010/botoes_coloridos/assets/100869628/d39bca73-0d0e-4c7e-999d-e0b57765c0ff)
 
 
